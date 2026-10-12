@@ -1,0 +1,7 @@
+{
+  "appId": "com.proplayer.app",
+  "appName": "مشغل برو",
+  "webDir": "www",
+  "backgroundColor": "#0C1017",
+  "android": { "allowMixedContent": false }
+}
